@@ -38,7 +38,7 @@ public class PalindromeTester {
     	//Make new Jframe and set the bounds and title
         frame = new JFrame();
         frame.setBounds(250,100,450,450);
-        frame.setTitle("Palindrome Tester by Josh");
+        frame.setTitle("Palindrome Tester");
         
         //New container
         Container cp = frame.getContentPane();
